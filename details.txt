@@ -1,0 +1,16 @@
+FlipKart:-div
+[
+_4rR01T :- class for Product name
+_30jeq3 _1_WHN1 :-class for Price
+
+s1Q9rs :- class for product otherwise
+_30jeq3 :- class for price otherwise
+]
+
+Amazon:-span
+[
+a-size-medium a-color-base a-text-normal :-class for product name
+a-price-whole :- class for price
+
+a-size-base-plus a-color-base a-text-normal :- class for product name otherwise
+]
